@@ -86,8 +86,3 @@ Sob as seguintes condições:
 ## Aviso Legal
 
 Este manual é fornecido "como está", sem garantias de qualquer tipo. O uso das informações e ferramentas recomendadas é de responsabilidade do usuário. As organizações devem avaliar suas necessidades específicas e consultar especialistas quando apropriado.
-
----
-
-**Lembre-se**: A resistência começa com informação, com ação, mas também começa com proteção. Proteção de vocês, proteção das informações, proteção das causas. Cuidem-se.
-
