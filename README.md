@@ -2,7 +2,7 @@
 
 > Um guia prático para organizações que atuam em defesa de direitos humanos e enfrentam ações legais contra grandes corporações tecnológicas.
 
-[![Licença: CC BY-SA 4.0](https://img.shields.io/badge/Licença-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Licença: CC BY-NC-SA 4.0](https://img.shields.io/badge/Licença-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
 
@@ -65,14 +65,15 @@ Sugestões, correções e melhorias são sempre apreciadas.
 
 ## Licença
 
-Este trabalho está licenciado sob a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+Este trabalho está licenciado sob a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Você pode:
 - ✅ Compartilhar — copiar e redistribuir o material em qualquer suporte ou formato
-- ✅ Adaptar — remixar, transformar e criar a partir do material para qualquer fim, mesmo comercial
+- ✅ Adaptar — remixar, transformar e criar a partir do material
 
 Sob as seguintes condições:
 - **Atribuição** — Você deve dar o crédito apropriado, fornecer um link para a licença e indicar se foram feitas alterações.
+- **Uso Não Comercial** — Você não pode usar o material para fins comerciais.
 - **Compartilhamento pela mesma licença** — Se você remixar, transformar ou criar a partir do material, deverá distribuir suas contribuições sob a mesma licença que o original.
 
 ## Recursos Adicionais
